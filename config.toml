@@ -26,7 +26,7 @@ copyright = "&copy; Copyright notice"
   #youtube = "Your YouTube username"
   linkedin = "nickcouto"
   # Disqus shortname
-  disqus = "nicole_couto"
+  disqusShortname = "nicole_couto"
   # Google Analytics API key.
   ga_api_key = "UA-114106664-1"
   # Logo image. This is displayed ogp image.
