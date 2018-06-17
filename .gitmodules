@@ -1,0 +1,3 @@
+[submodule "quickstart/themes/themes/potato-dark"]
+	path = quickstart/themes/themes/potato-dark
+	url = https://github.com/surajmandalcell/potato-dark.git
