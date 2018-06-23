@@ -1,69 +1,53 @@
 baseurl = "https://nickcouto.com"
 languageCode = "pt-br"
-Title = "Nicole Couto"
-theme = "potato-dark"
-# Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright notice"
+Title = "nickcouto"
+theme = "kiss"
+# copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+disqusShortname = "nicole_couto"
+googleAnalytics = "UA-114106664-1"
+# Number of posts per page
+Paginate = 5
+enableRobotsTXT = true
 
-[params]
-  paginate = 10
-  # Social accounts. Link to these accounts are displayed in the header and
-  # footer
-  twitter = "nickcouto"
-  #facebook = "Your Facebook username"
-  #instagram = "Your Instagram username"
-  #googleplus = "Your Google+ account URL" # https://plus.google.com/u/0/xxxxxx
-  github = "nickcouto"
-  #gitlab = "Your GitLab username"
-  #npm = "Your npm username"
-  #codepen = "Your CodePen username"
-  #dribbble = "Your Dribbble username"
-  #fivehundredpx = "Your 500px username" # 500px
-  #flickr = "Your Flickr username"
-  #pinterest = "Your Pinterest username"
-  #tumblr = "Your Tumblr username"
-  #vimeo = "Your Vimeo username"
-  #youtube = "Your YouTube username"
-  linkedin = "nickcouto"
-  # Disqus shortname
-  disqusShortname = "nicole_couto"
-  # Google Analytics API key.
-  ga_api_key = "UA-114106664-1"
-  # Logo image. This is displayed ogp image.
-  logo = "/path/to/logo"
-  favicon = "/path/to/favicon"
 
-[[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
+[params.assets]
+customCSS = ["css/custom.css"]
 
-[[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "@nickcouto" # Title for home page
+poweredby = false # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
 
-[related]
-  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-  threshold = 80
 
-  # To get stable "See also" sections we, by default, exclude newer related pages.
-  includeNewer = false
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
 
-  # Will lower case keywords in both queries and in the indexes.
-  toLower = false
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
 
-  [[related.indices]]
-  name = "keywords"
-  weight = 150
-  [[related.indices]]
-  name  = "author"
-  toLower = true
-  weight = 30
-  [[related.indices]]
-  name  = "tags"
-  weight = 100
-  [[related.indices]]
-  name  = "date"
-  weight = 10
-  pattern = "2017"
+[params.social]
+
+twitter = "nickcouto"
+github = "nickcouto"
+email = "nickcouto@gmail.com"
+linkedin = "nickcouto"
+# facebook = "ribice"
+# instagram = ""
+# codepen = ""
+
+[params.matomoAnalytics]
+siteID = 1
+rootURL = "//nickcouto.com/"
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params.sections_right]
+"/about" = "about"
