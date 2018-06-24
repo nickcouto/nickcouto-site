@@ -51,3 +51,6 @@ hrefTargetBlank = true
 
 [params.sections_right]
 "/about" = "about"
+
+[params.sections_left]
+"/" = "UX design | Product development | Life "
