@@ -4,6 +4,7 @@ Title = "nickcouto"
 theme = "kiss"
 # copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
 disqusShortname = "nickcouto"
+addThis = "ra-5b378311ceb84dca"
 googleAnalytics = "UA-114106664-1"
 # Number of posts per page
 Paginate = 5
@@ -53,4 +54,4 @@ hrefTargetBlank = true
 "/about" = "about"
 
 [params.sections_left]
-"/" = "UX design | Product development | Life "
+"/" = "Design, UX, Product, 🤷🏻"

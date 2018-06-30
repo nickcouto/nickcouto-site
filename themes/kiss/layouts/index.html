@@ -1,5 +1,7 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
+{{ partial "addthis" . }}
+
 <section class="section">
   <div class="container">
     {{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
@@ -27,5 +29,6 @@
     {{ end }}
   </div>
 </section>
+{{ partial "addthis-script" . }}
 {{ partial "pager" . }}
 {{ partial "footer" . }}
