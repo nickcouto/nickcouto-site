@@ -1,31 +1,33 @@
 +++
 title = "About me"
-date = "2014-04-09"
+date = "2018-07-01"
 menu = "main"
 hidden = true
 +++
 
-testing
 
-It makes use of a variety of open source projects including:
+Oi! Pode me chamar de Nic!
 
--	[Cobra](https://github.com/spf13/cobra)
--	[Viper](https://github.com/spf13/viper)
--	[J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
--	[Cast](https://github.com/spf13/cast)
+Eu sou designer e amo construir coisas digitais. Moro em Belo Horizonte, MG (Brasil).
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Meu principal interesse profissional é continuar construindo produtos digitais, o que envolve testar novas ideias e evoluir um produto até que ele seja um sucesso e também realmente útil para seus usuários.
 
-Setup
------
+Fora isso me interesso por música, games, fotografia e tento escrever para compartilhar todo o conhecimento que tenho.
 
-Some fun facts about [Hugo](http://gohugo.io/):
+Para falar comigo utilize qualquer um dos links no meu direito acima.
 
--	Built in [Go](http://golang.org/)
--	Loosely inspired by [Jekyll](http://jekyllrb.com/)
--	Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
--	Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+Obrigada pela visita!
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+------
 
-Thanks for reading!
+Hi! You can call me Nic!
+
+I am a designer who loves to build digital stuff. I'm currently living in Belo Horizonte, MG (Brasil).
+
+My main professional interest are digital product development, testing new ideas and evolve a product to be successful and really useful for the customers.
+
+Besides work I'm also interested in music, games, photography and I try to write to share all the knowledge that I have.
+
+If you’d like to get in touch, feel free to say hello through any of the top right social links.
+
+Thanks for visiting!
