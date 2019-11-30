@@ -1,20 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nickcouto.com/categories/</loc>
-    <priority>0</priority>
+    <loc>https://nickcouto.com/about/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nickcouto.com/</loc>
-    <priority>0</priority>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickcouto.com/posts/seu-produto-esta-sendo-lembrado/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickcouto.com/posts/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nickcouto.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

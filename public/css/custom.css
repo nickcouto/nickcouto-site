@@ -1,0 +1,11 @@
+
+.subtitle-left-nav {
+  font-size: 1em !important;
+  pointer-events: none !important;
+  text-align: left !important;
+}
+
+.powered-by {
+  font-size: 0.8em !important;
+  color: #bebebe;
+}
